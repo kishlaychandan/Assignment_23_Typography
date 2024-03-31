@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    font-family: Cambria;
+    border-bottom: 3px solid black;
+    align-items: center;
+    /* justify-content: center; */
+}
+.data{
+    width: 30%;
+    margin: 10px 0 10px 0;
+}
+p{
+    color:#837986;
+    /* line-height: 30px; */
+    margin: 15px 0 15px 0;
+}
+/* img{
+    width: 100%;
+} */
